@@ -1,1 +1,1 @@
-This is the Snake Game !
+Code for snake game !
